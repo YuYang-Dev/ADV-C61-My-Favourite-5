@@ -1,0 +1,88 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  scroll-behavior: smooth;
+  text-align: center;
+  background: #99a4ff;
+}
+
+h1
+{
+  background: #99a4ff;
+}
+
+#Coding
+{
+  font-size: 32px;
+}
+
+#CodingDesc
+{
+  font-size: 24px;
+}
+
+#About
+{
+  padding-top: 50px;
+  padding-bottom: 400px;
+}
+
+#OrionReview
+{
+  font-size: 22px;
+}
+
+.menu
+{
+  scroll-behavior: smooth;
+  font-size: 20px;
+  list-style: none;
+  position: absolute;
+  z-index: 10;
+  left: 30px;
+}
+
+.link
+{
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+a
+{
+  color: rgb(43, 43, 43);
+}
+
+#InspirationDesc
+{
+  font-size: 19px;
+}
+
+#DaniImage
+{
+  transition: transform .2s;
+  border: 10px solid #AAAAAA;
+}
+
+#DaniImg:hover
+{
+  transform: scale(.9);
+}
+
+#Contact
+{
+  padding-top: 20px;
+  font-size: 28px;
+}
+
+#GmailContact
+{
+  font-size: 25px;
+}
